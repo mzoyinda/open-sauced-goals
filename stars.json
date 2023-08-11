@@ -1,13 +1,19 @@
 [
   {
+    "full_name": "Chimoney/Chimoney-API-DevChallenge",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
     "full_name": "novuhq/novu",
-    "stargazers_count": 22411,
-    "open_issues_count": 225,
-    "forks_count": 1537
+    "stargazers_count": 22493,
+    "open_issues_count": 228,
+    "forks_count": 1547
   },
   {
     "full_name": "AndrewStetsenko/tech-jobs-with-relocation",
-    "stargazers_count": 1646,
+    "stargazers_count": 1651,
     "open_issues_count": 4,
     "forks_count": 179
   },
@@ -25,15 +31,15 @@
   },
   {
     "full_name": "reactplay/react-play",
-    "stargazers_count": 1016,
-    "open_issues_count": 26,
-    "forks_count": 558
+    "stargazers_count": 1019,
+    "open_issues_count": 22,
+    "forks_count": 557
   },
   {
     "full_name": "sudheerj/reactjs-interview-questions",
-    "stargazers_count": 31026,
+    "stargazers_count": 31075,
     "open_issues_count": 15,
-    "forks_count": 7603
+    "forks_count": 7620
   },
   {
     "full_name": "mzoyinda/jest-cheat-sheet",
@@ -43,7 +49,7 @@
   },
   {
     "full_name": "sapegin/jest-cheat-sheet",
-    "stargazers_count": 5070,
+    "stargazers_count": 5071,
     "open_issues_count": 0,
     "forks_count": 674
   },
