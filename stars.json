@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "EBEREGIT/react-auth",
+    "stargazers_count": 29,
+    "open_issues_count": 2,
+    "forks_count": 12
+  },
+  {
     "full_name": "Chimoney/Chimoney-API-DevChallenge",
     "stargazers_count": 3,
     "open_issues_count": 7,
@@ -7,15 +13,15 @@
   },
   {
     "full_name": "novuhq/novu",
-    "stargazers_count": 23403,
-    "open_issues_count": 229,
-    "forks_count": 1611
+    "stargazers_count": 23522,
+    "open_issues_count": 230,
+    "forks_count": 1621
   },
   {
     "full_name": "AndrewStetsenko/tech-jobs-with-relocation",
-    "stargazers_count": 1682,
+    "stargazers_count": 1688,
     "open_issues_count": 4,
-    "forks_count": 183
+    "forks_count": 184
   },
   {
     "full_name": "Chimoney/Community-Website",
@@ -25,21 +31,21 @@
   },
   {
     "full_name": "Olanetsoft/article-idea-generator",
-    "stargazers_count": 180,
+    "stargazers_count": 181,
     "open_issues_count": 3,
     "forks_count": 47
   },
   {
     "full_name": "reactplay/react-play",
-    "stargazers_count": 1030,
-    "open_issues_count": 17,
+    "stargazers_count": 1033,
+    "open_issues_count": 15,
     "forks_count": 566
   },
   {
     "full_name": "sudheerj/reactjs-interview-questions",
-    "stargazers_count": 31398,
+    "stargazers_count": 31482,
     "open_issues_count": 17,
-    "forks_count": 7694
+    "forks_count": 7726
   },
   {
     "full_name": "mzoyinda/jest-cheat-sheet",
@@ -49,9 +55,9 @@
   },
   {
     "full_name": "sapegin/jest-cheat-sheet",
-    "stargazers_count": 5082,
+    "stargazers_count": 5084,
     "open_issues_count": 0,
-    "forks_count": 674
+    "forks_count": 675
   },
   {
     "full_name": "wwcodelagos/algorithm-and-datastructures-series",
